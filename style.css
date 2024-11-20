@@ -1,0 +1,68 @@
+body {
+    font-family: 'Roboto';
+}
+
+a {
+    text-decoration: none;
+}
+
+.header,
+.sectionone,
+.footer {
+    background-color: #1F2937;
+}
+
+.hero {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.header a,
+.sectionone p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.sectionone p {
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.sectionfour {
+    padding: 20px;
+}
+
+.sectionfour div {
+    background-color: #3882F6;
+}
+
+.sectionfour button {
+    background-color: #3882F6;
+}
+
+.sectiontwo .title {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.sectionthree {
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 26px;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
