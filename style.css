@@ -7,7 +7,7 @@ a {
 }
 
 .header,
-.sectionone,
+.one,
 .footer {
     background-color: #1F2937;
 }
@@ -19,12 +19,12 @@ a {
 }
 
 .header a,
-.sectionone p {
+.one p {
     font-size: 18px;
     color: #E5E7EB;
 }
 
-.sectionone p {
+.one p {
     margin: 0;
     padding: 0;
 }
@@ -34,25 +34,25 @@ a {
     color: #F9FAF8;
 }
 
-.sectionfour {
+.four {
     padding: 20px;
 }
 
-.sectionfour div {
+.four div {
     background-color: #3882F6;
 }
 
-.sectionfour button {
+.four button {
     background-color: #3882F6;
 }
 
-.sectiontwo .title {
+.two .title {
     font-size: 36px;
     color: #1F2937;
     font-weight: 900;
 }
 
-.sectionthree {
+.three {
     background-color: #E5E7EB;
 }
 
