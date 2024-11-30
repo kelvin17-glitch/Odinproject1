@@ -66,12 +66,22 @@ a {
 
 .three {
     background-color: #E5E7EB;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 90px;
+    padding-right: 90px;
 }
 
 .quote {
     font-size: 26px;
     font-weight: 100;
     font-style: italic;
+}
+
+.by {
+    display: flex;
+    justify-content: flex-end;
+    font-weight: 900;
 }
 
 .header {
