@@ -47,15 +47,37 @@ a {
 }
 
 .four {
-    padding: 20px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 80px;
+    padding-right: 80px;
 }
 
-.four div {
+.container {
     background-color: #3882F6;
+    padding: 40px;
+    color: #E5E7EB;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.container h2 {
+    margin-bottom: 0;
+}
+
+.container p {
+    margin-top: 0;
 }
 
 .four button {
     background-color: #3882F6;
+    border: 2px solid white;
+    border-radius: 5px;
+    color: #E5E7EB;
+    padding: 8px 32px;
+    font-weight: bold;
 }
 
 .two .title {
