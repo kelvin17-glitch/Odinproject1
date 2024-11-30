@@ -155,3 +155,11 @@ ul {
 .info {
     max-width: 200px;
 }
+
+.footer {
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
